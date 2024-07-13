@@ -7,7 +7,7 @@ I'm Linus Schilpp, a software engineer from Germany.
 Currently I'm studying for my masters degree.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://lischilpp.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/linus-schilpp-92b351281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/linus-schilpp-92b351281)
 
 ### Statistics
 
