@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi there 👋
 
 I'm Linus Schilpp, a software engineer from Germany.
@@ -11,3 +13,4 @@ Currently I'm studying for my masters degree.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lischilpp&layout=compact&langs_count=8&disable_animations=true" />
 </p>
 
+</div>
