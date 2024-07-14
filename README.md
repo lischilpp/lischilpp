@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+# Hi there 👋
 
 I'm Linus Schilpp, a software engineer from Germany.
 
@@ -10,7 +10,7 @@ Currently I'm studying for my masters degree.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/linus-schilpp-92b351281)
 
 
-### Technologies I work with
+## Technologies I work with
 #### Machine Learning
 [![Machine Learning](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)
 
@@ -20,7 +20,7 @@ Currently I'm studying for my masters degree.
 #### Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
 
-### Statistics
+## Statistics
 
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lischilpp&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&disable_animations=true" />&nbsp;&nbsp;&nbsp;
