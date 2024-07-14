@@ -16,4 +16,15 @@ Currently I'm studying for my masters degree.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lischilpp&theme=transparent&layout=compact&langs_count=8&disable_animations=true" />
 </p>
 
+### Technologies I work with
+#### Machine Learning
+[![Machine Learning](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)
+
+#### Graphics / Game Development
+[![Graphics and Game Development](https://skillicons.dev/icons?i=unity,cs,cpp)](https://skillicons.dev)
+
+#### Web Development
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
+
+
 </div>
