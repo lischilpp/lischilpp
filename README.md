@@ -20,6 +20,8 @@ Currently I'm studying for my masters degree.
 #### Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
 
+
+<!--
 ## Statistics
 
 <p>
@@ -29,3 +31,4 @@ Currently I'm studying for my masters degree.
 
 
 </div>
+-->
