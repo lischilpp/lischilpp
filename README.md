@@ -11,16 +11,7 @@ Currently I'm studying for my masters degree.
 
 
 ## Technologies I work with
-#### Machine Learning
-[![Machine Learning](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)
-
-#### Graphics / Game Development
-[![Graphics and Game Development](https://skillicons.dev/icons?i=unity,cs,cpp)](https://skillicons.dev)
-
-#### Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
-
-
+[![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,anaconda,opencv,sklearn,unity,cs,cpp,html,css,sass,js,ts,nodejs,angular,react,jquery,regex,postman,vscode,apple,linux,ubuntu,arch,windows,docker,git,github,gitlab,latex,md,java,php,laravel,mysql,sqlite,raspberrypi,ros)](https://skillicons.dev)
 <!--
 ## Statistics
 
