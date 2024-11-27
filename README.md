@@ -92,8 +92,8 @@ I'm Linus Schilpp, a software engineer from Germany.
       <br><br>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>Math Plotter</h3>
-      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/logo.png?raw=true" width="400">
+      <h3>Ochiba JS</h3>
+      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/logo.png?raw=true" alt="Ochiba JS Logo" width="400">
       <br><br>
       <p>An animation library for letters and other child elements</p>
       <a href="https://github.com/lischilpp/ochiba-js" target="_blank">View project</a>
