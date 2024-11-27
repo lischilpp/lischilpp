@@ -28,7 +28,7 @@ I'm Linus Schilpp, a software engineer from Germany.
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>TEQST</h3>
       <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" alt="TEQST Image" width="400">
       <br>
@@ -41,7 +41,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
       <br><br>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <h3>Unity Voxel Engine</h3>
       <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" width="400">        <br>
       <p>An interactive Voxel Engine</p>
@@ -53,9 +53,9 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="50%">
       <h3>OpenGL 3D Engine</h3>
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" width="400" width="50%">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" width="400">
       <br>
       <p>A 3D Engine</p>
       <a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a>
@@ -65,7 +65,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
       <br><br>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>Math Plotter</h3>
       <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" width="400">
       <br>
