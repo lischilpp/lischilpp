@@ -28,7 +28,7 @@ I'm Linus Schilpp, a software engineer from Germany.
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <h3>TEQST</h3>
       <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" alt="TEQST Image" width="400">
       <br>
@@ -67,7 +67,7 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>Math Plotter</h3>
-      <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" width="310">
+      <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" width="400">
       <br>
       <p>A graphing tool for plotting objects into a parallel-perspective coordinate system</p>
       <a href="https://github.com/lischilpp/math-plotter" target="_blank">View project</a>
@@ -81,7 +81,7 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="top" width="50%">
       <h3>CSS 3D Engine</h3>
-      <img src="https://github.com/lischilpp/css-3d-engine/blob/master/screenshot.png?raw=true" alt="CSS 3D Engine Image" width="300">
+      <img src="https://github.com/lischilpp/css-3d-engine/blob/master/screenshot.png?raw=true" alt="CSS 3D Engine Image" width="400">
       <br>
       <p>A 3D engine using CSS transformations</p>
       <a href="https://github.com/lischilpp/css-3d-engine" target="_blank">View project</a>
