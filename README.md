@@ -25,7 +25,11 @@ I'm Linus Schilpp, a software engineer from Germany.
 
 
 ## Projects
+[![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-000000?style=for-the-badge)](#artificial-intelligence)
+[![Web Development](https://img.shields.io/badge/-Web_Development-3E7CC2?style=for-the-badge)](#web-development)
+[![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-008000?style=for-the-badge)](#computer-graphics)
 
+### Web Development
 <table align="center">
   <tr>
     <td align="center" valign="top">
@@ -39,30 +43,6 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Unity Voxel Engine</h3>
-      <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" width="400">        <br>
-      <p>An interactive Voxel Engine</p>
-      <a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View project</a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>OpenGL 3D Engine</h3>
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" width="400">
-      <br>
-      <p>A 3D Engine</p>
-      <a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a>
-      <br><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
-      <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
       <br><br>
     </td>
     <td align="center" valign="top" width="50%">
@@ -101,6 +81,34 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+### Computer Graphics
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Unity Voxel Engine</h3>
+      <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" width="400">        <br>
+      <p>An interactive Voxel Engine</p>
+      <a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>OpenGL 3D Engine</h3>
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" width="400">
+      <br>
+      <p>A 3D Engine</p>
+      <a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
+      <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
       <br><br>
     </td>
   </tr>
