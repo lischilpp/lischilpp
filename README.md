@@ -41,7 +41,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
       <br><br>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3>Unity Voxel Engine</h3>
       <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" width="400">        <br>
       <p>An interactive Voxel Engine</p>
