@@ -44,7 +44,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <br><br>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>Phoneme Classification and Alignment</h3>
+      <h3>Phoneme Alignment</h3>
       <p>Phoneme classification and alignment <br>on the TIMIT dataset</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
@@ -182,7 +182,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <br><br>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>Marching Squares Algorithm Visualizer</h3>
+      <h3>Marching Squares Visualizer</h3>
       <p>Visualization to understand this Algorithm</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
