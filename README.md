@@ -32,15 +32,26 @@ I'm Linus Schilpp, a software engineer from Germany.
 ## Artificial Intelligence
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3>Open Images - Image Classification</h3>
       <img src="https://github.com/lischilpp/open-images-image-classification/blob/main/screenshots/script7.png?raw=true" width="300">
       <br>
-      <p>Image Classification on the Open Images Dataset</p>
+      <p>Image Classification on Open Images</p>
       <a href="https://github.com/lischilpp/open-images-image-classification" target="_blank">View project</a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Phoneme Classification and Alignment</h3>
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/bachelor_thesis.png?raw=true" width="300">
+      <br>
+      <p>Phoneme classification and alignment on TIMIT</p>
+      <a href="https://github.com/lischilpp/bachelor-thesis-phoneme-recognition-alignment" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
       <br><br>
     </td>
   </tr>
@@ -49,7 +60,7 @@ I'm Linus Schilpp, a software engineer from Germany.
 ### Web Development
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h3>TEQST</h3>
       <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" width="300">
       <br>
