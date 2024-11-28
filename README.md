@@ -56,6 +56,7 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
   </tr>
 </table>
+<br>
 
 ### Web Development
 <table align="center">
