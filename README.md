@@ -34,7 +34,7 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="top">
       <h3>TEQST</h3>
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" alt="TEQST Image" width="400">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" alt="TEQST Image" height="250">
       <br>
       <p>An app to effectively collect speech data</p>
       <a href="https://github.com/TEQST" target="_blank">View project</a>
@@ -47,9 +47,9 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>Math Plotter</h3>
-      <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" width="400">
+      <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" height="250">
       <br>
-      <p>A graphing tool for plotting objects into a parallel-perspective coordinate system</p>
+      <p>A graphing tool for plotting objects</p>
       <a href="https://github.com/lischilpp/math-plotter" target="_blank">View project</a>
       <br><br>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
@@ -61,7 +61,7 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="top" width="50%">
       <h3>CSS 3D Engine</h3>
-      <img src="https://github.com/lischilpp/css-3d-engine/blob/master/screenshot.png?raw=true" alt="CSS 3D Engine Image" width="400">
+      <img src="https://github.com/lischilpp/css-3d-engine/blob/master/screenshot.png?raw=true" alt="CSS 3D Engine Image" height="250">
       <br>
       <p>A 3D engine using CSS transformations</p>
       <a href="https://github.com/lischilpp/css-3d-engine" target="_blank">View project</a>
@@ -73,8 +73,8 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>Ochiba JS</h3>
-      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/demo-screenshot.png?raw=true" alt="Ochiba JS Logo" width="400">
-      <br><br>
+      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/demo-screenshot.png?raw=true" alt="Ochiba JS Logo" height="250">
+      <br>
       <p>An animation library for letters and other child elements</p>
       <a href="https://github.com/lischilpp/ochiba-js" target="_blank">View project</a>
       <br><br>
@@ -91,7 +91,7 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="top" width="50%">
       <h3>Unity Voxel Engine</h3>
-      <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" width="400">        <br>
+      <img src="https://github.com/lischilpp/unity-voxel-engine/blob/master/screenshots/screenshot1.png?raw=true" height="250">        <br>
       <p>An interactive Voxel Engine</p>
       <a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View project</a>
       <br><br>
@@ -101,7 +101,7 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>OpenGL 3D Engine</h3>
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" width="400">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true" alt="OpenGL 3D Engine Image" height="250">
       <br>
       <p>A 3D Engine</p>
       <a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a>
