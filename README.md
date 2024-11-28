@@ -85,6 +85,7 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
   </tr>
 </table>
+<br>
 
 ### Computer Graphics
 <table align="center">
