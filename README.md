@@ -29,6 +29,23 @@ I'm Linus Schilpp, a software engineer from Germany.
 [![Web Development](https://img.shields.io/badge/-Web_Development-3E7CC2?style=for-the-badge)](#web-development)
 [![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-008000?style=for-the-badge)](#computer-graphics)
 
+## Artificial Intelligence
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h3>Open Images - Image Classification</h3>
+      <img src="https://github.com/lischilpp/open-images-image-classification/blob/main/screenshots/script7.png?raw=true" alt="TEQST Image" width="300">
+      <br>
+      <p>Image Classification on the Open Images Dataset</p>
+      <a href="https://github.com/lischilpp/open-images-image-classification" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 ### Web Development
 <table align="center">
   <tr>
@@ -99,10 +116,10 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>Gaming Clan Homepage</h3>
-      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/demo-screenshot.png?raw=true" alt="Ochiba JS Logo" width="300">
+      <img src="https://github.com/lischilpp/gaming-clan-homepage/blob/main/screenshots/screenshot.png?raw=true" alt="Gaming Clan Homepage Logo" width="300">
       <br>
-      <p>An animation library for letters and other child elements</p>
-      <a href="https://github.com/lischilpp/ochiba-js" target="_blank">View project</a>
+      <p>A Homepage for a Gaming Clan</p>
+      <a href="https://github.com/lischilpp/gaming-clan-homepage" target="_blank">View project</a>
       <br><br>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
