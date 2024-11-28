@@ -84,6 +84,32 @@ I'm Linus Schilpp, a software engineer from Germany.
       <br><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Chrome Color Workspaces</h3>
+      <img src="https://github.com/lischilpp/chrome-color-workspaces/raw/master/screenshot.png?raw=true" alt="Chrome Color Workspaces Image" width="300">
+      <br>
+      <p>A Chrome Extension for Workspace Management</p>
+      <a href="https://github.com/lischilpp/chrome-color-workspaces" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Gaming Clan Homepage</h3>
+      <img src="https://github.com/lischilpp/ochiba-js/blob/main/res/demo-screenshot.png?raw=true" alt="Ochiba JS Logo" width="300">
+      <br>
+      <p>An animation library for letters and other child elements</p>
+      <a href="https://github.com/lischilpp/ochiba-js" target="_blank">View project</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <br><br>
+    </td>
+  </tr>
 </table>
 <br>
 
