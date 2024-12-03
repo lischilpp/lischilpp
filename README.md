@@ -15,6 +15,10 @@ I'm Linus Schilpp, a software engineer from Germany.
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
@@ -22,10 +26,6 @@ I'm Linus Schilpp, a software engineer from Germany.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
