@@ -179,6 +179,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
       </p>
       <p><a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a></p>
+      <br>
     </td>
     <td align="center" valign="center">
       <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true"  alt="OpenGL 3D Engine Project">
