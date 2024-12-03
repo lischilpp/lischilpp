@@ -181,6 +181,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
       </p>
       <p><a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/unity-voxel-engine-demo/" target="_blank">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
