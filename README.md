@@ -66,6 +66,37 @@ I'm Linus Schilpp, a software engineer from Germany.
 <table align="center">
   <tr>
     <td align="center" valign="center" width="50%">
+      <h3>TEQST</h3>
+      <p>An app to effectively collect speech data</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+      </p>
+      <p><a href="https://github.com/TEQST" target="_blank">View project</a></p>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/teqst.png?raw=true" alt="TEQST Project">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" width="50%">
+      <h3>Math Plotter</h3>
+      <p>A graphing tool for plotting objects</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      </p>
+      <p><a href="https://github.com/lischilpp/math-plotter" target="_blank">View project</a></p>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/lischilpp/math-plotter/blob/master/img/screenshot1.png?raw=true" alt="Math Plotter Project">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" width="50%">
       <h3>CSS 3D Engine</h3>
       <p>A 3D engine using CSS transformations</p>
       <p>
