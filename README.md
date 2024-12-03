@@ -171,6 +171,21 @@ I'm Linus Schilpp, a software engineer from Germany.
 <table align="center">
   <tr>
     <td align="center" valign="center" width="50%">
+      <h3>OpenGL 3D Engine</h3>
+      <p>A 3D Engine</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
+        <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
+      </p>
+      <p><a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a></p>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true"  alt="OpenGL 3D Engine Project">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" width="50%">
       <h3>Unity Voxel Engine</h3>
       <p>An interactive Voxel Engine</p>
       <p>
@@ -199,22 +214,7 @@ I'm Linus Schilpp, a software engineer from Germany.
       <img src="https://github.com/lischilpp/octree-voxel-terrain-generator/raw/main/screenshots/shaded_wireframe.png?raw=true"  alt="Octree Voxel Terrain Generator Project">
     </td>
   </tr>
-  <tr>
-    <td align="center" valign="center" width="50%">
-      <h3>Linear Transformation Plotter</h3>
-      <p>Plotting different linear transformations</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-      </p>
-      <p><a href="https://github.com/lischilpp/linear-transformation-plotter" target="_blank">View project</a></p>
-      <br>
-    </td>
-    <td align="center" valign="center">
-      <img src="https://github.com/lischilpp/linear-transformation-plotter/blob/master/screenshots/skew_y.png?raw=true"  alt="Linear Transformation Plotter Project">
-    </td>
-  </tr>
+  
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Marching Squares Visualizer</h3>
@@ -233,17 +233,18 @@ I'm Linus Schilpp, a software engineer from Germany.
   </tr>
   <tr>
     <td align="center" valign="center" width="50%">
-      <h3>OpenGL 3D Engine</h3>
-      <p>A 3D Engine</p>
+      <h3>Linear Transformation Plotter</h3>
+      <p>Plotting different linear transformations</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
-        <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
-      <p><a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View project</a></p>
+      <p><a href="https://github.com/lischilpp/linear-transformation-plotter" target="_blank">View project</a></p>
+      <br>
     </td>
     <td align="center" valign="center">
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/opengl_3d_engine.png?raw=true"  alt="OpenGL 3D Engine Project">
+      <img src="https://github.com/lischilpp/linear-transformation-plotter/blob/master/screenshots/skew_y.png?raw=true"  alt="Linear Transformation Plotter Project">
     </td>
   </tr>
 </table>
