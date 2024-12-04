@@ -11,9 +11,9 @@ I'm Linus Schilpp, a software engineer from Germany.
 [![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,anaconda,opencv,sklearn,unity,cs,cpp,html,css,sass,js,ts,nodejs,angular,react,jquery,regex,postman,vscode,apple,linux,ubuntu,arch,windows,docker,git,github,gitlab,latex,md,java,php,laravel,mysql,sqlite,raspberrypi,ros)](https://skillicons.dev)
 
 ## Open Source Projects
-[![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-3E7CC2?style=for-the-badge)](#artificial-intelligence)
-[![Web Development](https://img.shields.io/badge/-Web_Development-3E7CC2?style=for-the-badge)](#web-development)
-[![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-3E7CC2?style=for-the-badge)](#computer-graphics)
+[![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-417aaa?style=for-the-badge)](#artificial-intelligence)
+[![Web Development](https://img.shields.io/badge/-Web_Development-417aaa?style=for-the-badge)](#web-development)
+[![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-417aaa?style=for-the-badge)](#computer-graphics)
 
 ### Artificial Intelligence
 <table align="center">
