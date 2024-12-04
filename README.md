@@ -30,7 +30,10 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
       </p>
       <p><a href="https://github.com/lischilpp/open-images-image-classification" target="_blank">View Project</a></p>
-      <img src="https://github.com/lischilpp/open-images-image-classification/blob/main/screenshots/script7.png?raw=true" alt="Open Images Image Classification Project" width="400">
+      <br>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://github.com/lischilpp/open-images-image-classification/blob/main/screenshots/script7.png?raw=true" alt="Open Images Image Classification Project">
     </td>
   </tr>
   <tr>
@@ -43,7 +46,10 @@ I'm Linus Schilpp, a software engineer from Germany.
       </p>
       <p><a href="https://github.com/lischilpp/bachelor-thesis-phoneme-recognition-alignment" target="_blank">View Project</a>
       </p>
-      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/bachelor_thesis.png?raw=true" alt="Phoneme Alignment Project" width="400">
+      <br>
+    </td>
+    <td align="center" valign="center">
+      <img src="https://github.com/lischilpp/lischilpp.github.io/blob/main/res/img/bachelor_thesis.png?raw=true" alt="Phoneme Alignment Project">
     </td>
   </tr>
 </table>
