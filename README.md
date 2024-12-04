@@ -4,7 +4,7 @@
 
 I'm Linus Schilpp, a software engineer from Germany.
 
-[![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-343A40.svg?style=for-the-badge&logo=mail)](mailto:contact@schilpp.tech)
+[![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-000000.svg?style=for-the-badge&logo=mail)](mailto:contact@schilpp.tech)
 
 
 ## Technologies I work with
