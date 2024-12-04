@@ -4,19 +4,16 @@
 
 I'm Linus Schilpp, a software engineer from Germany.
 
-[![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-000000.svg?style=for-the-badge&logo=mail)](mailto:contact@schilpp.tech)
-
-
-
+[![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-343A40.svg?style=for-the-badge&logo=mail)](mailto:contact@schilpp.tech)
 
 
 ## Technologies I work with
 [![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,anaconda,opencv,sklearn,unity,cs,cpp,html,css,sass,js,ts,nodejs,angular,react,jquery,regex,postman,vscode,apple,linux,ubuntu,arch,windows,docker,git,github,gitlab,latex,md,java,php,laravel,mysql,sqlite,raspberrypi,ros)](https://skillicons.dev)
 
 ## Open Source Projects
-[![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-000000?style=for-the-badge)](#artificial-intelligence)
+[![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-3E7CC2?style=for-the-badge)](#artificial-intelligence)
 [![Web Development](https://img.shields.io/badge/-Web_Development-3E7CC2?style=for-the-badge)](#web-development)
-[![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-008000?style=for-the-badge)](#computer-graphics)
+[![Computer Graphics](https://img.shields.io/badge/-Computer_Graphics-3E7CC2?style=for-the-badge)](#computer-graphics)
 
 ### Artificial Intelligence
 <table align="center">
