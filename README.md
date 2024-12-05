@@ -24,11 +24,11 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Open Images - Image Classification</h3>
-      <p>Image Classification on Open Images</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
       </p>
+      <p>Image Classification on Open Images</p>
       <p><a href="https://github.com/lischilpp/open-images-image-classification" target="_blank">View Project</a></p>
       <br>
     </td>
@@ -39,11 +39,11 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Phoneme Alignment</h3>
-      <p>Phoneme classification and alignment on the TIMIT dataset</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
       </p>
+      <p>Phoneme classification and alignment on the TIMIT dataset</p>
       <p><a href="https://github.com/lischilpp/bachelor-thesis-phoneme-recognition-alignment" target="_blank">View Project</a>
       </p>
       <br>
@@ -60,13 +60,13 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>TEQST</h3>
-      <p>An app to effectively collect speech data</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
       </p>
+      <p>An app to effectively collect speech data</p>
       <p><a href="https://github.com/TEQST" target="_blank">View Project</a></p>
       <br>
     </td>
@@ -77,12 +77,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Math Plotter</h3>
-      <p>A graphing tool for plotting objects</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>A graphing tool for plotting objects</p>
       <p><a href="https://github.com/lischilpp/math-plotter" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/math-plotter" target="_blank">Live Demo</a></p>
       <br>
@@ -94,12 +94,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>CSS 3D Engine</h3>
-      <p>A 3D engine using CSS transformations</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>A 3D engine using CSS transformations</p>
       <p><a href="https://github.com/lischilpp/css-3d-engine" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/css-3d-engine" target="_blank">Live Demo</a></p>
       <br>
@@ -111,12 +111,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Ochiba JS</h3>
-      <p>An animation library for child elements</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>An animation library for child elements</p>
       <p><a href="https://github.com/lischilpp/ochiba-js" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/ochiba-js" target="_blank">Live Demo</a></p>
       <br>
@@ -128,12 +128,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Chrome Color Workspaces</h3>
-      <p>A Chrome Extension for workspaces</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>A Chrome Extension for workspaces</p>
       <p><a href="https://github.com/lischilpp/chrome-color-workspaces" target="_blank">View Project</a></p>
       <br>
     </td>
@@ -144,12 +144,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Gaming Clan Homepage</h3>
-      <p>A Homepage for a Gaming Clan</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>A Homepage for a Gaming Clan</p>
       <p><a href="https://github.com/lischilpp/gaming-clan-homepage" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/gaming-clan-homepage" target="_blank">Live Demo</a></p>
       <br>
@@ -166,12 +166,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>OpenGL 3D Engine</h3>
-      <p>A 3D Engine</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
         <img src="https://img.shields.io/badge/GLFW-000000?logo=glfw&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
       </p>
+      <p>A 3D Engine</p>
       <p><a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View Project</a></p>
       <br>
     </td>
@@ -182,11 +182,11 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Unity Voxel Engine</h3>
-      <p>An interactive Voxel Engine</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
       </p>
+      <p>An interactive Voxel Engine</p>
       <p><a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/unity-voxel-engine-demo/" target="_blank">Live Demo</a></p>
       <br>
@@ -198,11 +198,11 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Octree Voxel Terrain Generator</h3>
-      <p>A Terrain Generator with a GUI</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
       </p>
+      <p>A Terrain Generator with a GUI</p>
       <p><a href="https://github.com/lischilpp/octree-voxel-terrain-generator" target="_blank">View Project</a></p>
       <br>
     </td>
@@ -214,12 +214,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Marching Squares Visualizer</h3>
-      <p>Visualization to understand this Algorithm</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>Visualization to understand this Algorithm</p>
       <p><a href="https://github.com/lischilpp/marching-squares-algorithm-visualizer" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/marching-squares-algorithm-visualizer" target="_blank">Live Demo</a></p>
       <br>
@@ -231,12 +231,12 @@ I'm Linus Schilpp, a software engineer from Germany.
   <tr>
     <td align="center" valign="center" width="50%">
       <h3>Linear Transformation Plotter</h3>
-      <p>Plotting different linear transformations</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
+      <p>Plotting different linear transformations</p>
       <p><a href="https://github.com/lischilpp/linear-transformation-plotter" target="_blank">View Project</a></p>
       <p><a href="https://lischilpp.github.io/linear-transformation-plotter" target="_blank">Live Demo</a></p>
       <br>
