@@ -65,6 +65,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
       </p>
       <p>An app to effectively collect speech data</p>
       <p><a href="https://github.com/TEQST">View Project</a></p>
