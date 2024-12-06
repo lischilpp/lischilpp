@@ -29,7 +29,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
       </p>
       <p>Image Classification on Open Images</p>
-      <p><a href="https://github.com/lischilpp/open-images-image-classification" target="_blank">View Project</a></p>
+      <p><a href="https://github.com/lischilpp/open-images-image-classification">View Project</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -44,7 +44,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
       </p>
       <p>Phoneme classification and alignment on the TIMIT dataset</p>
-      <p><a href="https://github.com/lischilpp/bachelor-thesis-phoneme-recognition-alignment" target="_blank">View Project</a>
+      <p><a href="https://github.com/lischilpp/bachelor-thesis-phoneme-recognition-alignment">View Project</a>
       </p>
       <br>
     </td>
@@ -67,7 +67,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
       </p>
       <p>An app to effectively collect speech data</p>
-      <p><a href="https://github.com/TEQST" target="_blank">View Project</a></p>
+      <p><a href="https://github.com/TEQST">View Project</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -83,8 +83,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>A graphing tool for plotting objects</p>
-      <p><a href="https://github.com/lischilpp/math-plotter" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/math-plotter" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/math-plotter">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/math-plotter">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -100,8 +100,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>A 3D engine using CSS transformations</p>
-      <p><a href="https://github.com/lischilpp/css-3d-engine" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/css-3d-engine" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/css-3d-engine">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/css-3d-engine">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -117,8 +117,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>An animation library for child elements</p>
-      <p><a href="https://github.com/lischilpp/ochiba-js" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/ochiba-js" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/ochiba-js">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/ochiba-js">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -134,7 +134,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>A Chrome Extension for workspaces</p>
-      <p><a href="https://github.com/lischilpp/chrome-color-workspaces" target="_blank">View Project</a></p>
+      <p><a href="https://github.com/lischilpp/chrome-color-workspaces">View Project</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -150,8 +150,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>A Homepage for a Gaming Clan</p>
-      <p><a href="https://github.com/lischilpp/gaming-clan-homepage" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/gaming-clan-homepage" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/gaming-clan-homepage">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/gaming-clan-homepage">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -172,7 +172,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/OpenGL-FFFFFF?logo=opengl&logoColor=black">
       </p>
       <p>A 3D Engine</p>
-      <p><a href="https://github.com/lischilpp/opengl-3d-engine" target="_blank">View Project</a></p>
+      <p><a href="https://github.com/lischilpp/opengl-3d-engine">View Project</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -187,8 +187,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
       </p>
       <p>An interactive Voxel Engine</p>
-      <p><a href="https://github.com/lischilpp/unity-voxel-engine" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/unity-voxel-engine-demo/" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/unity-voxel-engine">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/unity-voxel-engine-demo/">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -203,7 +203,7 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
       </p>
       <p>A Terrain Generator with a GUI</p>
-      <p><a href="https://github.com/lischilpp/octree-voxel-terrain-generator" target="_blank">View Project</a></p>
+      <p><a href="https://github.com/lischilpp/octree-voxel-terrain-generator">View Project</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -220,8 +220,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>Visualization to understand this Algorithm</p>
-      <p><a href="https://github.com/lischilpp/marching-squares-algorithm-visualizer" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/marching-squares-algorithm-visualizer" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/marching-squares-algorithm-visualizer">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/marching-squares-algorithm-visualizer">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
@@ -237,8 +237,8 @@ I'm Linus Schilpp, a software engineer from Germany.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       </p>
       <p>Plotting different linear transformations</p>
-      <p><a href="https://github.com/lischilpp/linear-transformation-plotter" target="_blank">View Project</a></p>
-      <p><a href="https://lischilpp.github.io/linear-transformation-plotter" target="_blank">Live Demo</a></p>
+      <p><a href="https://github.com/lischilpp/linear-transformation-plotter">View Project</a></p>
+      <p><a href="https://lischilpp.github.io/linear-transformation-plotter">Live Demo</a></p>
       <br>
     </td>
     <td align="center" valign="center">
