@@ -1,15 +1,4 @@
 <div align="center">
-<!--
-
-# Hi there 👋
-
-I'm Linus Schilpp, a software engineer from Germany.
-
-[![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-000000.svg?style=for-the-badge&logo=mail)](mailto:contact@schilpptech.com)
-
-## Technologies I work with
-[![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,anaconda,opencv,sklearn,unity,cs,cpp,html,css,sass,js,ts,nodejs,angular,react,jquery,regex,postman,vscode,apple,linux,ubuntu,arch,windows,docker,git,github,gitlab,latex,md,java,php,laravel,mysql,sqlite,raspberrypi,ros)](https://skillicons.dev)
--->
 
 ## Open Source Projects
 [![Artificial Intelligence](https://custom-icon-badges.demolab.com/badge/Artificial_Intelligence-000000.svg?style=for-the-badge&logo=robot&logoColor=28e367)](#artificial-intelligence)
@@ -246,4 +235,3 @@ I'm Linus Schilpp, a software engineer from Germany.
     </td>
   </tr>
 </table>
-</div>
