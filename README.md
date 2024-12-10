@@ -1,6 +1,5 @@
 <div align="center">
 
-## Open Source Projects
 [![Artificial Intelligence](https://custom-icon-badges.demolab.com/badge/Artificial_Intelligence-000000.svg?style=for-the-badge&logo=robot&logoColor=28e367)](#artificial-intelligence)
 [![Web Development](https://custom-icon-badges.demolab.com/badge/Web_Development-000000.svg?style=for-the-badge&logo=html5)](#web-development)
 [![Computer Graphics](https://custom-icon-badges.demolab.com/badge/Computer_Graphics-000000.svg?style=for-the-badge&logo=package&logoColor=27b2e2)](#computer-graphics)
