@@ -7,7 +7,10 @@ I'm Linus Schilpp, a software engineer from Germany specializing in Machine Lear
 [![Email](https://custom-icon-badges.demolab.com/badge/Contact_me-000000.svg?style=for-the-badge&logo=mail)](mailto:contact@linus-schilpp.com)
 
 ## Technologies I work with
-[![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,anaconda,opencv,sklearn,unity,cs,cpp,html,css,sass,js,ts,nodejs,angular,react,jquery,regex,postman,vscode,apple,linux,ubuntu,arch,windows,docker,git,github,gitlab,latex,md,java,php,laravel,mysql,sqlite,raspberrypi,ros)](https://skillicons.dev)
+### Machine Learning & Artificial Intelligence
+![](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn)
+### Web Development
+![](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,angular,php,laravel,mysql)
 
 ## Open Source Projects
 [![Artificial Intelligence](https://custom-icon-badges.demolab.com/badge/Artificial_Intelligence-000000.svg?style=for-the-badge&logo=robot&logoColor=28e367)](#artificial-intelligence)
